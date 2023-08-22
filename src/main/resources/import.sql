@@ -19,4 +19,4 @@ INSERT INTO tb_atividade_participante(participante_id, atividade_id) VALUES (4, 
 
 INSERT INTO tb_bloco(atividade_id, inicio, fim) VALUES (1, TIMESTAMP WITH TIME ZONE '2022-07-25 08:00:00', '2022-07-25 14:00:00');
 INSERT INTO tb_bloco(atividade_id, inicio, fim) VALUES (2, TIMESTAMP WITH TIME ZONE '2022-07-25 14:00:00', '2022-07-25 18:00:00');
-INSERT INTO tb_bloco(atividade_id, inicio, fim) VALUES (3, TIMESTAMP WITH TIME ZONE '2022-07-26 08:00:00', '2022-07-26 11:00:00');
+INSERT INTO tb_bloco(atividade_id, inicio, fim) VALUES (2, TIMESTAMP WITH TIME ZONE '2022-07-26 08:00:00', '2022-07-26 11:00:00');
